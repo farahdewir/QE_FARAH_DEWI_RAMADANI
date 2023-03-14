@@ -1,0 +1,26 @@
+pwd = Menentukan jalur direktori kerja Anda saat ini, mis. path semua direktori yang dimulai dengan garis miring (/), misalnya /home/username.
+
+cd= untuk menelusuri file dan folder Linux misalnya di /home/username/Documents dan membuka foto, subfolder dengan dokumen.
+
+is=Ini adalah perintah dasar Linux untuk menampilkan file dan folder sistem.
+
+cat=cat (kependekan dari concatenate) adalah salah satu perintah dasar yang paling banyak digunakan dalam sistem operasi Linux.
+
+cp=Jika Anda ingin menyalin file atau folder dan isinya,
+
+mv=Untuk memindahkan dan mengganti nama file dan folder. mkdir=Buat satu atau lebih direktori baru sekaligus dan atur izin untuk masing-masing direktori.
+
+rmdir=Perintah menghapus direktori kosong,
+
+rm=Perintah dasar Linux yang menghapus file dari direktori.
+
+touch=Perintah Linux dasar yang memungkinkan Anda membuat file kosong baru dan mengubah stempel waktu dari baris perintah Linux.
+cal=Calendar screen, tetapi ncal harus diinstal terlebih dahulu
+
+find=Temukan file di direktori yang ditentukan dan lakukan tindakan berikut.
+
+date=Tampilkan tanggal tergantung pada perangkat
+
+clear=Untuk menghapus perintah atau layar di terminal. history = Untuk melihat history dari apa yang kita jalankan di Linux
+
+ekor = Menampilkan 10 baris terakhir dari file. 
