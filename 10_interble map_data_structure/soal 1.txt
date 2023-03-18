@@ -1,0 +1,14 @@
+def gabung_array(arr1, arr2):
+    hasil = arr1.copy() # copy elemen-elemen arr1 ke hasil
+    for elemen in arr2:
+        if elemen not in arr1:
+            hasil.append(elemen) # tambahkan elemen yang tidak ada di arr1
+    return hasil
+
+arr1 = ['kazuya', 'jin', 'lee']
+arr2 = ['kazuya', 'feng']
+print(gabung_array(arr1, arr2)) # ['kazuya', 'jin', 'lee', 'feng']
+
+arr1 = ['lee', 'jin']
+arr2 = ['kazuya', 'panda']
+print(gabung_array(arr1, arr2)) # ['lee', 'jin', 'kazuya', 'panda']
