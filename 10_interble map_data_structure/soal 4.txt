@@ -1,0 +1,10 @@
+def ArrayUnique(arr1, arr2):
+    unique_arr = []
+    for element in arr1:
+        if element not in arr2 and element not in unique_arr:
+            unique_arr.append(element)
+    return unique_arr
+
+# Test case
+print(ArrayUnique([1, 2, 3, 4], [1, 3, 5, 10, 16])) # Output: [2, 4]
+print(ArrayUnique([3, 8], [2, 8])) # Output: [3]
