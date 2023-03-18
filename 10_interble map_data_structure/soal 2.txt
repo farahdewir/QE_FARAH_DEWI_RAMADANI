@@ -1,0 +1,8 @@
+def find_unique_numbers(input_str):
+    unique_numbers = []
+    for num in input_str:
+        if input_str.count(num) == 1:
+            unique_numbers.append(int(num))
+    return unique_numbers
+print(find_unique_numbers("76523752")) #[6, 3]
+print(find_unique_numbers("1122")) #[]
