@@ -1,0 +1,41 @@
+Berikut ini adalah contoh 3 test case pada halaman web https://www.sepulsa.com/ dengan kriteria yang telah diberikan:
+
+Test Case 1: Login dengan akun yang valid
+Test Scenario:
+
+Buka halaman https://www.sepulsa.com/.
+Klik tombol "Masuk" di pojok kanan atas halaman.
+Masukkan email dan password yang valid pada form login.
+Klik tombol "Masuk".
+Expected Result:
+
+Halaman akan berhasil melakukan login dan redirect ke halaman utama.
+Tombol "Masuk" di pojok kanan atas halaman akan berubah menjadi nama pengguna yang telah login.
+Test Case 2: Login dengan email atau password yang salah
+
+Test Scenario:
+
+Buka halaman https://www.sepulsa.com/.
+Klik tombol "Masuk" di pojok kanan atas halaman.
+1. Masukkan email atau password yang salah pada form login.
+Klik tombol "Masuk".
+Expected Result:
+
+2. Halaman akan menampilkan pesan error bahwa email atau password salah.
+Tombol "Masuk" di pojok kanan atas halaman tetap akan muncul.
+3. Test Case 3: Pilih produk dan metode pembayaran
+Test Scenario:
+
+Buka halaman https://www.sepulsa.com/.
+Pilih salah satu produk yang ingin dibeli pada halaman utama.
+Klik tombol "Beli Sekarang".
+Pilih metode pembayaran yang diinginkan.
+Klik tombol "Lanjutkan Pembayaran".
+Expected Result:
+
+Halaman akan redirect ke halaman pembayaran yang sesuai dengan metode pembayaran yang dipilih.
+Produk yang dipilih dan harga yang harus dibayar akan tertera pada halaman pembayaran.
+
+
+
+
