@@ -1,0 +1,29 @@
+<html>
+<title>Kontak Form PHP</title>
+<head>
+<link rel="stylesheet" type="text/css" href="css.css"/>
+</head>
+<h2>Contact Form</h2>
+<div id="contact-area">
+<table></table>
+<form method="POST" action="mail.php" name="contact">
+<label for="nama">Nama *:</label>
+<input type="text" name="nama" id="Name" />
+<label for="company">Company:</label>
+<input type="text" name="company" id="Company" />
+<label for="Alamat">Alamat *:</label>
+<input type="text" name="alamat" id="Alamat" />
+<label for="Email">Email *:</label>
+<input type="text" name="email" id="Email" />
+<label for="Telp">Telephone *:</label>
+<input type="text" name="Telp" id="Telp" />
+<label for="Website">Website :</label>
+<input type="text" name="website" id="Website" />
+<label for="Pesan">Pesan *:</label><br />
+<textarea name="pesan" rows="20" cols="20" id="pesan"></textarea>
+<br>* mandatory<br>
+<input type="submit" name="submit" value="Submit" />
+</form>
+</table>
+</div>
+</html>
