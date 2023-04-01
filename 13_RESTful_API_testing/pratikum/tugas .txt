@@ -1,0 +1,18 @@
+Kriteria dari pembuatan test case sebenarnya lebih luas daripada hanya memiliki case positif dan negatif serta menggunakan REST Assured. Beberapa kriteria lain yang penting untuk diperhatikan dalam pembuatan test case adalah sebagai berikut:
+
+Mencakup semua kemungkinan kondisi: Test case harus mencakup semua kemungkinan kondisi yang dapat terjadi pada aplikasi atau fitur yang diuji, termasuk skenario positif dan negatif, input valid dan tidak valid, dan kondisi yang berbeda pada setiap tahap pengujian.
+
+Spesifik dan terukur: Test case harus spesifik dan terukur, sehingga dapat memberikan hasil yang akurat dan dapat diandalkan. Hal ini mencakup menyediakan input yang spesifik dan output yang diharapkan, serta mengukur kinerja aplikasi dan membandingkannya dengan standar yang telah ditetapkan.
+
+Terdokumentasi dengan baik: Test case harus didokumentasikan dengan baik, termasuk deskripsi kasus pengujian, kondisi awal dan akhir, skenario pengujian, langkah-langkah pengujian, dan hasil yang diharapkan. Dokumentasi yang baik membantu dalam memahami dan mengevaluasi hasil pengujian.
+
+Mudah dipahami dan dijalankan: Test case harus mudah dipahami dan dijalankan oleh orang lain yang tidak terlibat dalam pembuatan test case. Hal ini membantu dalam mempercepat proses pengujian dan memastikan bahwa hasil pengujian dapat diandalkan.
+
+Berkelanjutan dan dapat diulang: Test case harus berkelanjutan dan dapat diulang, sehingga dapat digunakan kembali di masa depan. Ini memastikan bahwa setiap perubahan pada aplikasi atau fitur dapat diperiksa kembali untuk memastikan bahwa tidak ada efek samping atau masalah yang tidak diinginkan.
+
+Sedangkan terkait dengan penggunaan REST Assured, kriteria ini berkaitan dengan alat yang digunakan dalam pengujian aplikasi atau fitur tersebut. REST Assured adalah alat pengujian API yang kuat dan populer di kalangan pengembang. Namun, penggunaan REST Assured bukanlah satu-satunya cara untuk menguji aplikasi atau fitur, tergantung pada jenis aplikasi atau fitur yang diuji dan kebutuhan pengujian yang spesifik.
+
+
+
+
+
