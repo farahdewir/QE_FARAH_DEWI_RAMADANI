@@ -1,0 +1,14 @@
+1. Jenis-jenis dari performance testing antara lain:
+Load Testing: pengujian yang dilakukan untuk mengukur kemampuan sistem dalam menangani beban atau jumlah pengguna yang besar secara bersamaan.
+Stress Testing: pengujian yang dilakukan untuk menguji sistem dengan memberikan beban yang lebih besar dari kapasitas normal, dengan tujuan untuk mengukur tingkat keandalan dan stabilitas sistem dalam menghadapi beban berat.
+Endurance Testing: pengujian yang dilakukan untuk menguji sistem dengan memberikan beban dalam waktu yang lama, dengan tujuan untuk mengukur kemampuan sistem dalam menjaga performa dan kestabilannya dalam jangka waktu yang lama.
+Spike Testing: pengujian yang dilakukan untuk menguji sistem dengan memberikan beban yang tiba-tiba dan besar, dengan tujuan untuk mengukur kemampuan sistem dalam menangani lonjakan beban yang tidak terduga.
+
+2. Beberapa tools yang dapat digunakan untuk melakukan performance testing antara lain:
+JMeter: tool open-source yang digunakan untuk melakukan load testing pada aplikasi web, database, dan protokol lainnya. JMeter menyediakan fitur yang lengkap untuk menguji performa sistem, seperti grafik dan laporan hasil pengujian.
+LoadRunner: tool yang dikembangkan oleh Micro Focus yang digunakan untuk melakukan pengujian performa pada aplikasi web dan mobile. LoadRunner menyediakan fitur yang lengkap untuk menguji kemampuan sistem dalam menangani beban, seperti analisis respon waktu dan pengukuran penggunaan sumber daya.
+Gatling: tool open-source yang digunakan untuk melakukan load testing pada aplikasi web. Gatling menggunakan bahasa pemrograman Scala dan menyediakan fitur yang cepat dan mudah digunakan, seperti simulasi pengguna dan pengukuran performa secara real-time.
+
+
+
+
