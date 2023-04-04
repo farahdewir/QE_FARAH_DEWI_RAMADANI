@@ -1,0 +1,11 @@
+Jenis-jenis dari Performance Testing meliputi:
+
+Load Testing: jenis pengujian performa yang mengukur kemampuan sistem untuk menangani beban atau volume yang besar. Load Testing dilakukan untuk mengetahui batas kapasitas sistem, menemukan titik lemah sistem, dan memastikan bahwa sistem dapat beroperasi secara stabil dan responsif dalam situasi beban kerja yang tinggi.
+
+Stress Testing: jenis pengujian performa yang mengukur kemampuan sistem untuk menangani beban yang ekstrem atau di luar batas normalnya. Stress Testing dilakukan untuk menemukan titik lemah sistem, memastikan bahwa sistem dapat beroperasi dengan stabil dan responsif dalam situasi krisis atau di bawah tekanan yang sangat tinggi.
+
+Endurance Testing: jenis pengujian performa yang mengukur kemampuan sistem untuk beroperasi dengan kinerja yang stabil dalam waktu yang lama atau dalam situasi penggunaan yang terus-menerus. Endurance Testing dilakukan untuk menemukan masalah atau kelemahan sistem yang muncul pada waktu penggunaan yang lama.
+
+Spike Testing: jenis pengujian performa yang mengukur kemampuan sistem untuk menangani volume penggunaan yang sangat tinggi dalam waktu singkat atau dalam situasi lonjakan penggunaan yang tiba-tiba. Spike Testing dilakukan untuk mengetahui seberapa responsif sistem dalam situasi lonjakan penggunaan yang tiba-tiba.
+
+Scalability Testing: jenis pengujian performa yang mengukur kemampuan sistem untuk mengatasi peningkatan jumlah pengguna atau beban kerja secara proporsional dengan meningkatkan sumber daya sistem. Scalability Testing dilakukan untuk mengetahui sejauh mana sistem dapat ditingkatkan dan di skalakan dalam rangka menangani peningkatan volume penggunaan atau beban kerja.
